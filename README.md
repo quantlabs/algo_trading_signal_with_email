@@ -27,5 +27,12 @@ Further Details here
 
 https://quantlabs.net/blog/2019/07/details-on-github-algo_trading_signal_with_email-python-repo/
 
+These files are updated with video walk throughs
+http://quantlabs.net/blog/2019/09/python-source-code-walkthrough-of-received-crypto-forex-signals-with-metatrader-4-ea-setup/
+https://www.youtube.com/watch?v=k_hp8SC8vmg
+
+quantlabs.net/blog/2019/09/crypto-signal-python-script-walkthrough-with-outlook-and-addin/
+https://www.youtube.com/watch?v=D43RGgZxPk4
+
 
 
